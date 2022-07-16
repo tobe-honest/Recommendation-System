@@ -87,3 +87,5 @@
 - Sorensen 유사도
 - Divergence 유사도
 등이 많이 쓰임
+
+<img width="1474" alt="스크린샷 2022-07-10 오전 1 48 45" src="https://user-images.githubusercontent.com/74550514/178115237-3d4ed0dd-1f05-4a6d-b405-65c0854f2147.png">
